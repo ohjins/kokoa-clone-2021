@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+.chats__column{
+    flex-direction: column;
+    justify-content: center;
+}
+
+.chats__noti{
+    background-color: tomato;
+    width:25px;
+    height:25px;
+    border-radius: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:#fff;
+    font-weight: 600;
+    margin:5px 5px 0 0;
+}
